@@ -1,2 +1,2 @@
 # TicTacToe
-TicTacToe Java
+TicTacToe JavaScript/HTML Project
